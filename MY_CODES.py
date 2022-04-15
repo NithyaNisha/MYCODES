@@ -125,7 +125,7 @@ def my_codes():
     print(joinn.pop('onion'))
     print(joinn)
 
-
+my_codes()
 
                      # --- CONDITIONAL DS --- #
 
